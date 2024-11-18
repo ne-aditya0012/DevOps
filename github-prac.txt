@@ -1,3 +1,6 @@
 Hello Im learning github !!!
 
 This addition was made to branch 1
+
+
+now we will look at how a merge conflict works
